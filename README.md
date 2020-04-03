@@ -1,5 +1,7 @@
 # 前言
 
+[预览](https://liumingdepot.github.io/vue-mvvm/)
+
 Vue的底层到底是怎么实现的呢？
 
 通过手写简单的示例来学习Vue框架的运行机制。
